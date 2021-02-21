@@ -1,0 +1,24 @@
+.. rtdtest documentation master file, created by
+   sphinx-quickstart on Sun Feb 21 15:50:15 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to rtdtest's documentation!
+===================================
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents: 
+
+
+
+Indices and tables
+==================
+group 2
+=======
+group 3
+=======
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
